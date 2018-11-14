@@ -1,0 +1,116 @@
+/*font-family: 'Playfair Display', serif;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+/*font-family: 'Inconsolata', monospace;*/
+
+body{
+	font-family: 'Inconsolata', monospace;
+}
+/* header part */
+.logo{
+	text-transform: uppercase;
+	letter-spacing:5px;
+	font-size:30px;
+}
+.menu{
+	font-family: 'Playfair Display', serif;
+	font-size:14px;
+	text-transform: uppercase;
+	
+}
+.menu ul li a{
+	padding:0 30px !important ;
+}
+/* header part */
+
+/* banner part */
+
+.image{
+	background-size:center;
+	background-repeat:no-repeat;
+
+}
+/* banner part */
+
+/* content part */
+.diary{
+	color: #626262;
+	font-family: 'Playfair Display', serif;
+
+}
+.diary button a{
+	color: #b4ad9e;
+	text-decoration: none;
+	font-family: 'Ubuntu', sans-serif;
+
+}
+
+/* content part */
+
+/* blog start */
+.custom_p {
+	color: #626262;
+	font-weight: 300;
+	font-family: 'Ubuntu', sans-serif;
+	text-transform: uppercase;
+	padding-top: 15px;
+}
+.custom_h1 {
+	color: #626262;
+	padding: 10px 0;
+	font-family: 'Playfair Display', serif;
+}
+.b-content{
+	color: #626262;
+	font-family: 'Playfair Display', serif;
+
+}
+
+/* blog end */
+
+/* Newsletter Start */
+.newsletter {
+	margin: 60px 0;
+	background-color: #F0F0F0;
+}
+.newsletter-content {
+	margin: 70px 0;
+	text-align: center;
+}
+.custom_input_form {
+	margin: 70px 0 !important;
+}
+.custom_input, .custom_btn {
+	background-color: #F0F0F0;
+	border: none;
+	outline: none !important;
+	border-bottom: 1px solid #000000;
+	border-radius: 0;
+	font-family: 'Playfair Display', serif;
+
+}
+/* Newsletter End */
+
+/* load more start */
+.load-more{
+	padding:100px;
+}
+.l-btn{
+	padding:20px 40px;
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	color: #626262;
+	/* border:1px solid #626262; */
+}
+/* load more End */
+
+/* footer secton start */
+.bg-c{
+	background-color: #F0F0F0;
+	padding:15px 0;
+}
+
+.ftr p a{
+	font-family: 'Playfair Display', serif;
+	color: #626262;
+}
+/* footer secton End */
